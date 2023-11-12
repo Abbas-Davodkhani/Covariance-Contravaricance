@@ -1,0 +1,15 @@
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\bin\Debug\net7.0\Covariance&ContravaricaneInDelegates.exe
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\bin\Debug\net7.0\Covariance&ContravaricaneInDelegates.deps.json
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\bin\Debug\net7.0\Covariance&ContravaricaneInDelegates.runtimeconfig.json
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\bin\Debug\net7.0\Covariance&ContravaricaneInDelegates.dll
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\bin\Debug\net7.0\Covariance&ContravaricaneInDelegates.pdb
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.csproj.AssemblyReference.cache
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.AssemblyInfoInputs.cache
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.AssemblyInfo.cs
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.csproj.CoreCompileInputs.cache
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.dll
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\refint\Covariance&ContravaricaneInDelegates.dll
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.pdb
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\Covariance&ContravaricaneInDelegates.genruntimeconfig.cache
+C:\Users\a.davoodkhani\Desktop\Co&Ct\Covariance&Contravaricnce\Covariance&ContravaricaneInDelegates\obj\Debug\net7.0\ref\Covariance&ContravaricaneInDelegates.dll
